@@ -1,2 +1,2 @@
 # E-commerce-Olist store analysis
-This is my first analysis
+Analysis of Olist Store (Brazillian E-commerce Company) on the basis of Certain KPIs provided
