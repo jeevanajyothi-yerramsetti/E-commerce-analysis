@@ -1,2 +1,2 @@
-# E-commerce-analysis
+# E-commerce-Olist store analysis
 This is my first analysis
